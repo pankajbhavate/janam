@@ -4,5 +4,6 @@ public class ghgg {
 
 	
 public static void main(String[] args) {
-	System.out.println("my pname is pankaj");
+	aaj ki raat ka maja hsnah se akho se lijiye
+
 }}
