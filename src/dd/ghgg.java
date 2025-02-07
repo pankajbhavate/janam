@@ -3,7 +3,6 @@ package dd;
 public class ghgg {
 
 	
-	hey mister how are you 
-	hey pagal   boy ;
-	bodyguard sultan dil gajini
-} jjjhh
+public static void main(String[] args) {
+	System.out.println("my pname is pankaj");
+}}
